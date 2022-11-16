@@ -4,20 +4,21 @@
 
 ## Run Flask Application on a VM
 ## 1. Created a VM on GCP
-## Go to GCP terminal and insert:
-## 1. Sudo apt-get update
-## 2. Sudo apt install python3-pip
-## 3. Sudo apt install python3-flask
-## 4. git clone https://github.com/MariaLozano01/flask-html.git
-## 5. Navigate to files using --> ls into files
-## 6. insert 'cd' to log into flask-html file
-## 7. run the command 'sudo python3 app.py' to run application 
+## 2. Go to GCP terminal and insert:
+## 3. Sudo apt-get update
+## 4. Sudo apt install python3-pip
+## 5. Sudo apt install python3-flask
+## 6. git clone https://github.com/MariaLozano01/flask-html.git
+## 7. Navigate to files using --> ls into files
+## 8. insert 'cd' to log into flask-html file
+## 9. run the command 'sudo python3 app.py' to run application 
 
-## Run Flask Application on Domain Service 
-## 2. Log into your Domain Service Provider (https://get.tech/)
-## Log in
-## Add a new A Record
-## Give a name to the domain (@ can be used as a wildcard)
-## Insert our External IP Address from our VM
-## 7200 for the TTL Value
-## Add Record
+# Run Flask Application on Domain Service 
+
+## 1. Log into your Domain Service Provider (https://get.tech/)
+## 2. Log in
+## 3. Add a new A Record
+## 4. Give a name to the domain (@ can be used as a wildcard)
+## 5. Insert our External IP Address from our VM
+## 6. 7200 for the TTL Value
+## 7. Add Record
