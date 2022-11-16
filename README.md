@@ -15,7 +15,7 @@
 
 ## Run Flask Application on Domain Service 
 
- 1. Log into your Domain Service Provider (https://get.tech/)
+ 1. Browse to Domain Service Provider (https://get.tech/)
  2. Log in
  3. Add a new A Record
  4. Give a name to the domain (@ can be used as a wildcard)
