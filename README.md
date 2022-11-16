@@ -3,10 +3,10 @@
 ## mariasefue.tech 
 
 ## Run Flask Application on a VM
-## 1. Created a VM on GCP
-## 2. Go to GCP terminal and insert:
-## 3. Sudo apt-get update
-## 4. Sudo apt install python3-pip
+ 1. Created a VM on GCP
+ 2. Go to GCP terminal and insert:
+ 3. Sudo apt-get update
+ 4. Sudo apt install python3-pip
 ## 5. Sudo apt install python3-flask
 ## 6. git clone https://github.com/MariaLozano01/flask-html.git
 ## 7. Navigate to files using --> ls into files
